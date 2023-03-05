@@ -1,7 +1,6 @@
 body{
-	height:2000px;
-	background-image: radial-gradient(pink,pink,cyan,violet,pink);
-	/*background:repeating-radial-gradient(90deg, violet, purple, blue, yellow, #f15523, #ef3224, #7c3697, #00FF00, #DFFF00, #40E0D0, #6495ED, #FF7F50, #FF00FF,red, pink);*/
+	height:700px;
+	background-image: radial-gradient(rgb(91, 255, 250),pink,cyan,violet,pink);
 }
 
 a {
